@@ -9,7 +9,7 @@
 5) Using kfoldcrossvalidation which is gold technique to evaluate the model <br>
 6) I used to knn regressor as it finds a good prediction for non-linear data <br>
 
-(Note* : You can also experiment with multiple techniques and methods to find out the best method for your data, no method is universal for any thing)
+(Note* : You can also experiment with multiple techniques and methods to find out the best method for your data, no method is universal for any thing)<br><br>
 => After going through this repo, you will get the basic strong understanding of how to preprocess and build a model based on your data by visulizing it with various
    tools
 <br>
